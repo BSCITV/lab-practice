@@ -1,0 +1,3 @@
+git init
+git add fact.txt
+git commit -m "first commit"
